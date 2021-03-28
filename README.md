@@ -4,6 +4,11 @@
 
 • Arkadaşlar Merhaba v12 Discord MongoDb'li Register Botu Altyapısını Sizin için Hazırladım ve Paylaştım. Herhangi Bir Sorun ile Karşılaşırsanız da Serendia Squad Discord Sunucumuza Gelerek Destek Alabilirsiniz. İyi Kodlamalar :) ❤❤😍
 
+
+## Kurulum
+
+• Tek Yapmanız Gereken **stark.json** Dosyasını Doldurmak ve **Stark.js** Dosyası İçerisinde **43.** Satırda Bulunan Mongo connect Urlsini Yazmak
+
 <p align="center">
   <a href="https://discord.gg/Xhqq5zn2" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/starkbeyjs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
